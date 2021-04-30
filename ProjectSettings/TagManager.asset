@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - PowerUp
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Enemy
+  - Lightning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2235685501
+    locked: 0
+  - name: Enemy
+    uniqueID: 745906621
+    locked: 0
+  - name: Player
+    uniqueID: 3144153923
+    locked: 0
+  - name: Midground
+    uniqueID: 3681049091
+    locked: 0
+  - name: Foreground
+    uniqueID: 1227014113
+    locked: 0
